@@ -1,0 +1,18 @@
+h1 {
+	color:rgb(15, 215, 215)
+}
+
+a {
+	color: #fc4d6c;
+	text-decoration: none; 
+	background-color: #ffffff;
+}
+.panda-box {
+	border:#fc4d6c 2px solid;
+	width: 300px;
+	background-color: purple;
+}
+
+.big-text{
+	font-size: 1.2em;	
+}	
